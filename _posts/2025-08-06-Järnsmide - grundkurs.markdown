@@ -4,7 +4,7 @@ modal-id: 2
 img: smide_900x650.png
 alt: smide
 var: Gunnestorpsvägen 25, Mjöhult
-nar: 8 och 9 november
+nar: Se Medborgarskolans webbsida
 pris: 2500 kr
 anmalan: https://www.medborgarskolan.se/arrangemang-sok/jarnsmide-grunderna-1471220/
 description: En grundkurs i klassiskt varmsmide. Vi går igenom de flesta nödvändiga varmsmidestekniker genom smide av enkla bruksföremål. För värmning använder vi oss av gasässja, som är en enkel och effektiv ässja för den som har smide som hobby. Vi kikar på brandsäkerhet och arbetsmiljö.

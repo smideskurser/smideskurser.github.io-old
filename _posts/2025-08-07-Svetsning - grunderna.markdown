@@ -3,7 +3,7 @@ layout: page
 modal-id: 1
 img: svetskurs_900x650.png
 alt: Svetskurs
-nar: 20, 21 och 27, 28 september 2025
+nar: Se Medborgarskolans webbsida
 var: Gunnestorpsvägen 25, Mjöhult
 pris: 2500 kr
 anmalan: https://www.medborgarskolan.se/arrangemang-sok/svetsning-grunderna-1471223/

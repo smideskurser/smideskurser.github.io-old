@@ -54,7 +54,7 @@ Priset varierar beroende på kursens längd och innehåll. Våra kurser kostar m
 
 ### Får jag ta med det jag tillverkar hem?
 
-Självklart. Allt du tillverkar under kursen är ditt. Det brukar vara något att vara stolt över – och ett minne av att du faktiskt har skapat något av metall med egna händer.
+Självklart. Allt material för övningar ingår i kursavgiften. Material för egna projekt finns till ett mindre självkostnadspris. Det brukar vara något att vara stolt över – och ett minne av att du faktiskt har skapat något av metall med egna händer.
 
 ### Är smide/svetsning/gjutning verkligen något för mig?
 
